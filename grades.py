@@ -7,8 +7,8 @@ mean = (grade1+grade2)/2
 
 #If the student mean is equal or higher than 7, the student was approved
 if mean >=7:
-    print("Approved")
+    print("Passed")
 
 #If not, the student was reproved
 else:
-    print("Reproved")
+    print("Failed")
