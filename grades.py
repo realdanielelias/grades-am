@@ -1,4 +1,4 @@
-#Get both test grades
+#Take both test grades
 grade1 = float(input("Type the first grade: "))
 grade2 = float(input("Type the second grade: "))
 
